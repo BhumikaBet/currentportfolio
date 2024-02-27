@@ -650,10 +650,10 @@ a.btn:active {
   left: 1%;
   padding: 2px;
  
+.icons i {
+    color: black;
 }
-.icon span{
-  color: white;
-}
+
 
 .icons span:not(:last-child) {
   margin-right: 1rem;
